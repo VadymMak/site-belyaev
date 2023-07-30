@@ -1,7 +1,7 @@
 {
   "name": "site-belyaev",
   "version": "0.1.0",
-  "homepage": "https://vadymmak.github.io/site-belyaev",
+  "homepage": "https://VadymMak.github.io/site-belyaev",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",

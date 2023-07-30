@@ -1,10 +1,9 @@
-import { RouterProvider } from "react-router-dom";
-import { router } from "./routes/router";
+import MainPage from "./pages/MainPage";
 
 function App() {
   return (
     <div className="App">
-      <RouterProvider router={router} />
+      <MainPage />
     </div>
   );
 }
