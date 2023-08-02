@@ -1,21 +1,15 @@
-import styled from "@emotion/styled";
+import styled from "./RootLayout.module.scss";
 import React from "react";
 import { Outlet } from "react-router-dom";
 
 const RootLayout = () => {
   return (
-    <Container>
+    <div className={styled["root-layout"]}>
       <main>
         <Outlet />
       </main>
-    </Container>
+    </div>
   );
 };
 
 export default RootLayout;
-
-const Container = styled.div`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-`;
