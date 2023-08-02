@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/site-belyaev/static/css/main.be47856c.css",
-    "main.js": "/site-belyaev/static/js/main.9176ed2d.js",
+    "main.css": "/site-belyaev/static/css/main.f183b96a.css",
+    "main.js": "/site-belyaev/static/js/main.683b0acf.js",
     "index.html": "/site-belyaev/index.html",
-    "main.be47856c.css.map": "/site-belyaev/static/css/main.be47856c.css.map",
-    "main.9176ed2d.js.map": "/site-belyaev/static/js/main.9176ed2d.js.map"
+    "main.f183b96a.css.map": "/site-belyaev/static/css/main.f183b96a.css.map",
+    "main.683b0acf.js.map": "/site-belyaev/static/js/main.683b0acf.js.map"
   },
   "entrypoints": [
-    "static/css/main.be47856c.css",
-    "static/js/main.9176ed2d.js"
+    "static/css/main.f183b96a.css",
+    "static/js/main.683b0acf.js"
   ]
 }
