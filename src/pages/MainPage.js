@@ -1,26 +1,8 @@
 import React from "react";
-import Header from "../components/header/Header";
 import { styled } from "styled-components";
 
-import ProposeContainer from "../components/propose-container/ProposeContainer";
-import Reference from "../components/reference/Reference";
-import Contacts from "../components/contacts/Contacts";
-import Preference from "../components/preference/Preferense";
-import ContactForm from "../components/contact-form/ContactForm";
-import Footer from "../components/footer/Footer";
-
 const MainPage = () => {
-  return (
-    <Container>
-      <Header />
-      <Reference />
-      <ProposeContainer />
-      <Contacts />
-      <Preference />
-      <ContactForm />
-      <Footer />
-    </Container>
-  );
+  return <Container></Container>;
 };
 
 export default MainPage;
