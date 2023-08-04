@@ -9,8 +9,8 @@ import {
   faTelegram,
 } from "@fortawesome/free-brands-svg-icons";
 
-import logo_right from "../../assets/images/header_top_right.svg";
-import logo_left from "../../assets/images/header_bottom_left.svg";
+import logo_right from "../../assets/images/header_top_right.svg?raw=true";
+import logo_left from "../../assets/images/header_bottom_left.svg?raw=true";
 
 function getWindowDimensions() {
   const { innerWidth: width, innerHeight: height } = window;

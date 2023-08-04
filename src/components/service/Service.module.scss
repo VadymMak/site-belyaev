@@ -1,0 +1,15 @@
+.service {
+  background-color: #000;
+  margin: 0 auto;
+
+  &__title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px 0;
+    h1 {
+      color: #fff;
+      font-size: 24px;
+    }
+  }
+}

@@ -7,10 +7,10 @@
 body {
   margin: 0 auto;
   font-family: "Oswald", "Roboto", sans-serif;
-
+  box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #a0a0a0;
+  background-color: #000;
 }
 
 code {
