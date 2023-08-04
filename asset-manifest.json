@@ -2,8 +2,8 @@
   "files": {
     "main.css": "/site-belyaev/static/css/main.5940783c.css",
     "main.js": "/site-belyaev/static/js/main.89821bb1.js",
-    "static/media/header_bottom_left.svg": "/site-belyaev/static/media/header_bottom_left.92ccf7d0d2a82d90b22f45bd38cb329b.svg",
-    "static/media/header_top_right.svg": "/site-belyaev/static/media/header_top_right.e820866a2b2ec670e5f906fafc2e6a79.svg",
+    "static/media/header_bottom_left.svg?raw=true": "/site-belyaev/static/media/header_bottom_left.92ccf7d0d2a82d90b22f45bd38cb329b.svg",
+    "static/media/header_top_right.svg?raw=true": "/site-belyaev/static/media/header_top_right.e820866a2b2ec670e5f906fafc2e6a79.svg",
     "index.html": "/site-belyaev/index.html",
     "main.5940783c.css.map": "/site-belyaev/static/css/main.5940783c.css.map",
     "main.89821bb1.js.map": "/site-belyaev/static/js/main.89821bb1.js.map"
