@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/site-belyaev/static/css/main.734ff3dc.css",
-    "main.js": "/site-belyaev/static/js/main.3bc78c96.js",
+    "main.css": "/site-belyaev/static/css/main.76b9b5e0.css",
+    "main.js": "/site-belyaev/static/js/main.1d422c99.js",
     "static/media/documents_1400.png?raw=true": "/site-belyaev/static/media/documents_1400.5a2d82fea6610cb14452.png",
     "static/media/happy_woman_1400.png?raw=true": "/site-belyaev/static/media/happy_woman_1400.0ea5ecc95649e633344a.png",
+    "static/media/carpat_1200.png": "/site-belyaev/static/media/carpat_1200.9d5155e8ec22ace0d0f5.png",
     "static/media/handshaking_resized_1400.png?raw=true": "/site-belyaev/static/media/handshaking_resized_1400.a40925ca23f6b22648f1.png",
+    "static/media/carpat_520.png": "/site-belyaev/static/media/carpat_520.669d91dc3b8c00c4e6ee.png",
     "static/media/happy_woman_small.png?raw=true": "/site-belyaev/static/media/happy_woman_small.f5fb3f386cc0cf1b5f61.png",
     "static/media/header_bottom_left.svg?raw=true": "/site-belyaev/static/media/header_bottom_left.92ccf7d0d2a82d90b22f45bd38cb329b.svg",
     "static/media/header_top_right.svg?raw=true": "/site-belyaev/static/media/header_top_right.e820866a2b2ec670e5f906fafc2e6a79.svg",
     "index.html": "/site-belyaev/index.html",
-    "main.734ff3dc.css.map": "/site-belyaev/static/css/main.734ff3dc.css.map",
-    "main.3bc78c96.js.map": "/site-belyaev/static/js/main.3bc78c96.js.map"
+    "static/media/circleCheck.svg": "/site-belyaev/static/media/circleCheck.4c9bebeb093d01bf235689ae1fa7a53c.svg",
+    "main.76b9b5e0.css.map": "/site-belyaev/static/css/main.76b9b5e0.css.map",
+    "main.1d422c99.js.map": "/site-belyaev/static/js/main.1d422c99.js.map"
   },
   "entrypoints": [
-    "static/css/main.734ff3dc.css",
-    "static/js/main.3bc78c96.js"
+    "static/css/main.76b9b5e0.css",
+    "static/js/main.1d422c99.js"
   ]
 }
