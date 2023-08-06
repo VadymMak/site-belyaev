@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/site-belyaev/static/css/main.76b9b5e0.css",
-    "main.js": "/site-belyaev/static/js/main.06a32137.js",
+    "main.css": "/site-belyaev/static/css/main.a5fccf07.css",
+    "main.js": "/site-belyaev/static/js/main.493b6733.js",
+    "static/media/background.png": "/site-belyaev/static/media/background.72186452a8bdf6958d9d.png",
+    "static/media/trenchin_1200.png": "/site-belyaev/static/media/trenchin_1200.953ae4f043f1eee5257f.png",
     "static/media/documents_1400.png?raw=true": "/site-belyaev/static/media/documents_1400.5a2d82fea6610cb14452.png",
     "static/media/happy_woman_1400.png?raw=true": "/site-belyaev/static/media/happy_woman_1400.0ea5ecc95649e633344a.png",
     "static/media/carpat_1200.png": "/site-belyaev/static/media/carpat_1200.9d5155e8ec22ace0d0f5.png",
     "static/media/handshaking_resized_1400.png?raw=true": "/site-belyaev/static/media/handshaking_resized_1400.a40925ca23f6b22648f1.png",
+    "static/media/trenchin_820.png": "/site-belyaev/static/media/trenchin_820.113afc265efb99e61988.png",
+    "static/media/trenchin_420.png": "/site-belyaev/static/media/trenchin_420.a11f1cf117170a3649aa.png",
     "static/media/carpat_520.png": "/site-belyaev/static/media/carpat_520.669d91dc3b8c00c4e6ee.png",
     "static/media/happy_woman_small.png?raw=true": "/site-belyaev/static/media/happy_woman_small.f5fb3f386cc0cf1b5f61.png",
     "static/media/header_bottom_left.svg?raw=true": "/site-belyaev/static/media/header_bottom_left.92ccf7d0d2a82d90b22f45bd38cb329b.svg",
     "static/media/header_top_right.svg?raw=true": "/site-belyaev/static/media/header_top_right.e820866a2b2ec670e5f906fafc2e6a79.svg",
     "index.html": "/site-belyaev/index.html",
     "static/media/circleCheck.svg": "/site-belyaev/static/media/circleCheck.4c9bebeb093d01bf235689ae1fa7a53c.svg",
-    "main.76b9b5e0.css.map": "/site-belyaev/static/css/main.76b9b5e0.css.map",
-    "main.06a32137.js.map": "/site-belyaev/static/js/main.06a32137.js.map"
+    "main.a5fccf07.css.map": "/site-belyaev/static/css/main.a5fccf07.css.map",
+    "main.493b6733.js.map": "/site-belyaev/static/js/main.493b6733.js.map"
   },
   "entrypoints": [
-    "static/css/main.76b9b5e0.css",
-    "static/js/main.06a32137.js"
+    "static/css/main.a5fccf07.css",
+    "static/js/main.493b6733.js"
   ]
 }
