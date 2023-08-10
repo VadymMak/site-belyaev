@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/site-belyaev/static/css/main.f2b23b28.css",
-    "main.js": "/site-belyaev/static/js/main.0c97bef1.js",
+    "main.js": "/site-belyaev/static/js/main.8a024f4a.js",
     "static/media/background.png": "/site-belyaev/static/media/background.72186452a8bdf6958d9d.png",
     "static/media/trenchin_1200.png": "/site-belyaev/static/media/trenchin_1200.953ae4f043f1eee5257f.png",
     "static/media/documents_1400.png?raw=true": "/site-belyaev/static/media/documents_1400.5a2d82fea6610cb14452.png",
@@ -17,10 +17,10 @@
     "index.html": "/site-belyaev/index.html",
     "static/media/circleCheck.svg": "/site-belyaev/static/media/circleCheck.4c9bebeb093d01bf235689ae1fa7a53c.svg",
     "main.f2b23b28.css.map": "/site-belyaev/static/css/main.f2b23b28.css.map",
-    "main.0c97bef1.js.map": "/site-belyaev/static/js/main.0c97bef1.js.map"
+    "main.8a024f4a.js.map": "/site-belyaev/static/js/main.8a024f4a.js.map"
   },
   "entrypoints": [
     "static/css/main.f2b23b28.css",
-    "static/js/main.0c97bef1.js"
+    "static/js/main.8a024f4a.js"
   ]
 }
